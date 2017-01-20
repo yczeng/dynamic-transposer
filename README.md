@@ -10,6 +10,7 @@ Use keys on midi keyboard to control what intervals to tranpose the track.
 
 Dynamic Transposer for Live Audio:
 Press the microphone to begin recording.
+To create more or less notes, change the number of notein patches connected to the microphone and speaker.
 
 
 
