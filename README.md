@@ -14,5 +14,5 @@ To create more or less notes, change the number of notein patches connected to t
 
 <br><br>
 <img src="https://github.com/CatherineZeng/dynamic-transposer/blob/master/screenshot2.jpg?raw=true" width="600px"/>
-<br>
+<br><br>
 <img src="https://github.com/CatherineZeng/dynamic-transposer/blob/master/screenshot1.jpg?raw=true" width="600px"/>
