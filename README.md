@@ -8,6 +8,8 @@ Press "open" to import an audio file. Then press the leftest X to start playing 
 Use buttons pause, resume, and loop to control audio playback. 
 Use keys on midi keyboard to control what intervals to tranpose the track.
 
+<img src="https://github.com/CatherineZeng/dynamic-transposer/blob/master/screenshot2.jpg?raw=true" width="600px"/>
+
 Dynamic Transposer for Live Audio:
 Press the microphone to begin recording.
 To create more or less notes, change the number of notein patches connected to the microphone and speaker.
